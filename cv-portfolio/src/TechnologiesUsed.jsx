@@ -15,6 +15,8 @@ const TechnologiesUsed = () => {
                 <div className="flex"><p>React JS</p></div>
                 <div className="flex"><p>React JS</p></div>
                 <div className="flex"><p>React JS</p></div>
+                <div className="flex"><p>React JS</p></div>
+                <div className="flex"><p>React JS</p></div>
              </div>
 
              <div className="rounded-md border border-warning-700 px-4 py-3">
