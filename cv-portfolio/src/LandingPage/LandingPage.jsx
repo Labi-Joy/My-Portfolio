@@ -1,4 +1,4 @@
-import BigWords from "../BigWords";
+import BigWords from "../Frameworks";
 import ExperiencePage from "../ExperiencePage";
 import Footer from "../Footer";
 import HeroPage from "../HeroPage";

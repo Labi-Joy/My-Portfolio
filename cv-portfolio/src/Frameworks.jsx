@@ -1,6 +1,6 @@
 
 
-const BigWords = () => {
+const Frameworks = () => {
   return (
     <div className="py-6  h-screen flex flex-col gap-6 items-center justify-center">
       <p className="text-[#c79aff] text-6xl">Javascript</p>
@@ -10,4 +10,4 @@ const BigWords = () => {
   )
 }
 
-export default BigWords
+export default Frameworks
